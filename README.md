@@ -1,1 +1,3 @@
-# 2024_01_28
+```
+docker run -it $(docker build -q .)
+```
